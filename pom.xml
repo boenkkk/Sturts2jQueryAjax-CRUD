@@ -9,7 +9,7 @@
 		<dependency>
 			<groupId>org.apache.struts</groupId>
 			<artifactId>struts2-core</artifactId>
-			<version>2.3.16.2</version>
+			<version>2.5.33</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.struts</groupId>
@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.42</version>
+			<version>8.0.28</version>
 		</dependency>
 	</dependencies>
 	<build>
